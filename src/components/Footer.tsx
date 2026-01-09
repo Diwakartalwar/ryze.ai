@@ -6,7 +6,7 @@ export default function Footer() {
         {/* Brand */}
         <div>
           <h3 className="text-xl font-bold text-white">
-            Reaze<span className="text-red-600">AI</span>
+            Ryze<span className="text-red-600">AI</span>
           </h3>
           <p className="mt-4 text-sm">
             AI that audits, fixes, and scales your ad campaigns automatically.
